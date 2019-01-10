@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vibrator</string>
+    <string name="title_home">Vibrator</string>
+    <string name="title_dashboard">TOR</string>
+    <string name="title_notifications">Virus</string>
+
+    <string name="pi">1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679</string>
+    <string name="pi_1">1415926535</string>
+    <string name="pi_2">8979323846</string>
+    <string name="pi_3">2643383279</string>
+    <string name="pi_4">5028841971</string>
+    <string name="pi_5">6939937510</string>
+    <string name="pi_6">5820974944</string>
+    <string name="pi_7">5923078164</string>
+    <string name="pi_8">0628620899</string>
+    <string name="pi_9">8628034825</string>
+    <string name="pi_10">3421170679</string>
+</resources>
